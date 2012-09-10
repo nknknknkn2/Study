@@ -1,0 +1,9 @@
+git flow のお勉強
+----------------
+sudo port install git-flow
+mkdir study
+cd study
+sudo git flow init
+Enter連打
+sudo git flow feature start [name]
+sudo git flow feature
