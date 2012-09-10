@@ -7,3 +7,11 @@ sudo git flow init
 Enter連打
 sudo git flow feature start [name]
 sudo git flow feature
+sudo git flow feature finish [name]
+
+sudo git flow release start [version]
+sudo git flow release finish [version]
+[version]
+
+sudo git flow hotfix start [version]
+sudo git flow hotfix finish [version]
